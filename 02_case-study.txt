@@ -1,0 +1,15 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+
+---
+
+As the software engineer of the project, there are many aspects that could be handled better to prevent delays and issues experienced in the project.
+
+
+The most important thing in a team project is Communication. So during the project, there must be regular stand-up meetings in order to discuss projects, roadblocks so that issues may be addressed promptly. Of course, Transparency reporting for both members and stakeholders. This helps manage the expectations. 
+
+Next would be Risk Management. Identify potential risks early into the project (may it be internal, external, or technical. The team should also have backup plans for critical tasks in case a key team member encounters personal emergency situations and is unable to work on their tasks.
+
+Then practice Agile Project Management. I would let our development team, practice Scrum to adapt to sudden changing requirements. We would have retrospectives to assess what is working well and what needs improvement.
+
+And the most important of it all, Motivation and Morale. Though under pressure, I would continue encouraging my team to do their best. We cannot fight negative with negative. The team would be stressed with all the roadblocks and the last thing they need is a negative workspace. Thus, I will keep the team morale high and celebrate even the little achievements the team has accomplished.
